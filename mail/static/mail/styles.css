@@ -1,0 +1,27 @@
+textarea {
+    min-height: 400px;
+}
+
+.email{
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin-bottom: 10px;
+    border-radius:10px;
+    cursor:pointer;
+    width: 100%;
+    display:flex;
+    box-shadow:1px 1px 1px 1px #B8B8D1;
+}
+span{
+    margin-right: 10px;
+}
+.time{
+    margin-left:auto;
+}
+.body-details{
+    border:1px solid #B8B8D1;
+    padding: 10px;
+}
+
+  
+
